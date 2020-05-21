@@ -1,0 +1,3 @@
+# React_SplashProject
+
+This is my trial project for checking Git working... 
